@@ -8,5 +8,5 @@ after install css not found
 
 cd to path magento
 
-php bin/magento setup:static-content:deploy
-php bin/magento indexer:reindex
+$php bin/magento setup:static-content:deploy
+$php bin/magento indexer:reindex
