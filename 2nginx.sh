@@ -3,3 +3,5 @@ sudo apt-get install \
     --yes
 
 sudo service nginx restart
+
+mkdir -p /var/www/html/
